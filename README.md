@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/youssef-kandil-195638216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef-kandil-195638216" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kandil&show_icons=true&locale=en" alt="kandil" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanndil&show_icons=true&locale=en" alt="kanndil" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kandil&" alt="kandil" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanndil&" alt="kanndil" /></p>
 
