@@ -1,9 +1,9 @@
 # Hi 👋, I'm Youssef Kandil (Kanndil)
 
-A Research Assistant and a student of Computer Engineering at the [American University in Cairo](https://aucegypt.edu). My main feilds of interest are hardware and embedded systems, and I am currently a member of the [AUC Open Source Hardware Lab (AUCOHL)](https://github.com/AUCOHL). Also  as a machine/deep learning enthusiast, I'm particularly interested in the fields of object detection, image segmentation, and reinforcement learning. 
+A Research Assistant and a Computer Engineering student at the [American University in Cairo](https://aucegypt.edu). My main fields of interest are hardware and embedded systems, and I am currently a member of the [AUC Open Source Hardware Lab (AUCOHL)](https://github.com/AUCOHL). Also  as a machine/deep learning enthusiast, I'm particularly interested in the fields of object detection, image segmentation, and reinforcement learning. 
 
 ## Projects
-I contribute to and maintain the Lighter project, an automatic clock gating utility. And currently developing an AUTOSAR-compliant Multi-Core OS as my graduation project.
+I contribute to and maintain the Lighter project, an automatic clock gating utility. I am also currently developing an AUTOSAR-compliant Multi-Core OS as my graduation project.
 
 - Checkout [❄️ Lighter ❄️](https://github.com/AUCOHL/Lighter)
 
@@ -28,4 +28,4 @@ I contribute to and maintain the Lighter project, an automatic clock gating util
 
 ---
 
-<!--Feel free to contact me via email at youssefkandil@aucegypt.edu. Additionally, I am active on Twitter and LinkedIn, where I share my latest projects and research. Don't hesitate to connect with me via these platforms.-->
+<!--Feel free to contact me via email at youssefkandil@aucegypt.edu. Additionally, I am active on Twitter and LinkedIn, where I share my latest projects and research. Please don't hesitate to reach out to me through these platforms.-->
