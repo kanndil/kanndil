@@ -1,4 +1,6 @@
-# Hi 👋, I'm Youssef Kandil (Kanndil)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
+
+# I'm Youssef Kandil (Kanndil)
 
 A Research Assistant and a Computer Engineering student at the [American University in Cairo](https://aucegypt.edu). My main fields of interest are hardware and embedded systems, and I am currently a member of the [AUC Open Source Hardware Lab (AUCOHL)](https://github.com/AUCOHL). Also  as a machine/deep learning enthusiast, I'm particularly interested in the fields of object detection, image segmentation, and reinforcement learning. 
 
