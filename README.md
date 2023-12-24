@@ -9,7 +9,7 @@ I contribute to and maintain the Lighter project, an automatic clock gating util
 
 - Checkout [❄️ Lighter ❄️](https://github.com/AUCOHL/Lighter)
 
-- Checkout [multicoreOS](https://github.com/AUTOPIA-OS/MultiCore-OS)
+- Checkout [🏎️ AUTOPIA 🏎️](https://github.com/AUTOPIA-OS/MultiCore-OS)
 
 
 
