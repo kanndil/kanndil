@@ -1,15 +1,25 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
 
 # I'm Youssef Kandil (Kanndil)
-
+<!--
 A Research Assistant and a Computer Engineering student at the [American University in Cairo](https://aucegypt.edu). My main fields of interest are hardware and embedded systems, and I am currently a member of the [AUC Open Source Hardware Lab (AUCOHL)](https://github.com/AUCOHL). Also  as a machine/deep learning enthusiast, I'm particularly interested in the fields of object detection, image segmentation, and reinforcement learning. 
+-->
 
+
+
+I'm a Research Assistant and a Computer Engineering graduate from [The American University in Cairo](https://aucegypt.edu). My primary interests lie in Hardware Design, Embedded Systems, and Tiny Machine Learning. As a member of the AUC Open Source Hardware Lab [AUC Open Source Hardware Lab (AUCOHL)](https://github.com/AUCOHL), I actively contribute to projects aimed at enhancing power efficiency and performance in computing systems.
 ## Projects
-I contribute to and maintain the Lighter project, an automatic clock gating utility. I am also currently developing an AUTOSAR-compliant Multi-Core OS as my graduation project.
+Here are some of my key projects:
 
-- Checkout [❄️ Lighter ❄️](https://github.com/AUCOHL/Lighter)
 
-- Checkout [🏎️ AUTOPIA 🏎️](https://github.com/AUTOPIA-OS/MultiCore-OS)
+- **❄️ Lighter ❄️**: An automatic clock gating utility. Dynamic power reduction tool for open-source standard cell libraries. [Check it out](https://github.com/AUCOHL/Lighter)
+
+- **🧪 PODEM-ATPG 🧪**: A Google Summer of Code 2024 (GSOC2024) project, focused on implementing the Path-Oriented Decision Making (PODEM) algorithm for Automatic Test Pattern Generation (ATPG). [Check it out](https://github.com/kanndil/PODEM-ATPG)
+
+- **🏎️ AUTOPIA 🏎️**: My Bachelor's thesis project in collaboration with Siemens. An AUTOSAR-compliant MultiCore Operating System. [Check it out](https://github.com/AUTOPIA-OS)
+
+
+- **🎧 KWS MFCC Optimizer 🎧**: Enhancing the Mel-Frequency Cepstral Coefficients algorithm for efficient embedded audio machine learning applications. [Check it out](https://github.com/kanndil/mfcc_optimization)
 
 
 
@@ -49,4 +59,3 @@ I contribute to and maintain the Lighter project, an automatic clock gating util
 
 ---
 
-<!--Feel free to contact me via email at youssefkandil@aucegypt.edu. Additionally, I am active on Twitter and LinkedIn, where I share my latest projects and research. Please don't hesitate to reach out to me through these platforms.-->
