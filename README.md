@@ -31,7 +31,7 @@ Here are some of my key projects:
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=kanndil&count_private=true&theme=transparent" alt = "kanndil's Rating" height = 170 >
 </p>
 <p align = "center">
- <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=kanndil&count_private=true&locale=en&langs_count=10&h&theme=transparent" alt = "kanndil's Languages/Frameworks" width = 400 />
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=kanndil&count_private=true&locale=en&langs_count=5&h&theme=transparent" alt = "kanndil's Languages/Frameworks" width = 400 />
 </p>
 
 <br />
