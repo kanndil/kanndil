@@ -21,21 +21,17 @@ Here are some of my key projects:
 
 - **🎧 KWS MFCC Optimizer 🎧**: Enhancing the Mel-Frequency Cepstral Coefficients algorithm for efficient embedded audio machine learning applications. [Check it out](https://github.com/kanndil/mfcc_optimization)
 
-
-
+- 
 ## 📫 How to reach me
 **Email:** youssefkandil@aucegypt.edu
 
 <h2 align="left">Quick Overview 📈</h2>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=kanndil&count_private=true&theme=dracula&hide_border=true" alt = "kanndil's Contribution" width = 400 >
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=kanndil&count_private=true&theme=dracula&hide_border=true" alt = "kanndil's Rating" width = 400 >
-
+  <img src = "https://github-readme-stats.vercel.app/api?username=kanndil&show_icons=true&theme=transparent" alt = "kanndil's Contribution" height = 170 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=kanndil&count_private=true&theme=transparent" alt = "kanndil's Rating" height = 170 >
 </p>
-
 <p align = "center">
-
- <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=kanndil&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "kanndil's Languages/Frameworks" width = 400 />
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=kanndil&count_private=true&locale=en&langs_count=10&h&theme=transparent" alt = "kanndil's Languages/Frameworks" width = 400 />
 </p>
 
 <br />
@@ -44,7 +40,6 @@ Here are some of my key projects:
 
 </p>-->
 
-  <img src="https://raw.githubusercontent.com/kanndil/kanndil/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
 <!--## GitHub Stats
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kanndil&show_icons=true&locale=en" alt="kanndil" /></p>
 
