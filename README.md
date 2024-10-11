@@ -44,7 +44,7 @@ Here are some of my key projects:
 
 </p>-->
 
-
+  <img src="https://raw.githubusercontent.com/kanndil/kanndil/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
 <!--## GitHub Stats
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kanndil&show_icons=true&locale=en" alt="kanndil" /></p>
 
