@@ -21,7 +21,7 @@ Here are some of my key projects:
 
 - **🎧 KWS MFCC Optimizer 🎧**: Enhancing the Mel-Frequency Cepstral Coefficients algorithm for efficient embedded audio machine learning applications. [Check it out](https://github.com/kanndil/mfcc_optimization)
 
-- 
+
 ## 📫 How to reach me
 **Email:** youssefkandil@aucegypt.edu
 
@@ -35,10 +35,6 @@ Here are some of my key projects:
 </p>
 
 <br />
-<!--<p align = "center">
-  <img src = "https://spotify-recently-played-readme.vercel.app/api?user=31reutaimeofchscqq6dypesnxpe&count=1" alt = "Seif Sallam Spotify" width = 400 /> 
-
-</p>-->
 
 <!--## GitHub Stats
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kanndil&show_icons=true&locale=en" alt="kanndil" /></p>
