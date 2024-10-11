@@ -27,11 +27,11 @@ Here are some of my key projects:
 
 <h2 align="left">Quick Overview 📈</h2>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=kanndil&show_icons=true&theme=transparent" alt = "kanndil's Contribution" height = 170 >
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=kanndil&count_private=true&theme=transparent" alt = "kanndil's Rating" height = 170 >
+  <img src = "https://github-readme-stats.vercel.app/api?username=kanndil&show_icons=true&theme=transparent" alt = "kanndil's Contribution" height = 140 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=kanndil&count_private=true&theme=transparent" alt = "kanndil's Rating" height = 140 >
 </p>
 <p align = "center">
- <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=kanndil&count_private=true&locale=en&langs_count=5&h&theme=transparent" alt = "kanndil's Languages/Frameworks" width = 400 />
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=kanndil&count_private=true&locale=en&langs_count=5&h&theme=transparent" alt = "kanndil's Languages/Frameworks" width = 300 />
 </p>
 
 <br />
