@@ -23,16 +23,18 @@ Here are some of my key projects:
 
 
 ## 📫 How to reach me
-**Email:** youssefkandil@aucegypt.edu
+**Work Email:** youssef.kandil@efabless.com
+
+**Personal Email:** youssefkandil@aucegypt.edu
 
 <h2 align="left">Quick Overview 📈</h2>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=kanndil&show_icons=true&theme=transparent" alt = "kanndil's Contribution" height = 140 >
+  <img src = "https://github-readme-stats.vercel.app/api?username=kanndil&show_icons=true&count_private=true&theme=transparent" alt = "kanndil's Contribution" height = 140 >
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=kanndil&count_private=true&theme=transparent" alt = "kanndil's Rating" height = 140 >
 </p>
-<p align = "center">
+<!--<p align = "center">
  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=kanndil&count_private=true&locale=en&langs_count=5&h&theme=transparent" alt = "kanndil's Languages/Frameworks" width = 300 />
-</p>
+</p>-->
 
 <br />
 
