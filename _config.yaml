@@ -1,0 +1,40 @@
+# Site Configuration
+title: "Youssef Kandil's Portfolio"
+description: "A showcase of my projects, contributions, and technical skills."
+url: "https://youssefkandil.github.io"  # Update with your GitHub Pages URL
+baseurl: ""  # Leave blank for root repository
+
+# Theme Configuration
+theme: minima  # Replace with your chosen GitHub Pages theme
+remote_theme: # Uncomment this if you use a custom theme
+# jekyll/minima
+
+# Author Information
+author:
+  name: "Youssef Kandil"
+  email: "youssefkandil2001@gmail.com"
+  github: "https://github.com/youssefkandil"
+
+# Social Links (Optional)
+social_links:
+  - name: "GitHub"
+    url: "https://github.com/youssefkandil"
+  - name: "LinkedIn"
+    url: "https://linkedin.com/in/youssefkandil"  # Update with your LinkedIn profile
+  - name: "Twitter"
+    url: "https://twitter.com/youssefkandil"  # Update with your Twitter handle if applicable
+
+# Markdown Configuration
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Plugins (Optional)
+plugins:
+  - jekyll-feed  # Automatically generates RSS feed
+  - jekyll-seo-tag  # Improves SEO metadata
+  - jekyll-sitemap  # Adds a sitemap.xml for search engines
+
+# Customization
+paginate: 5  # Number of posts per page if you add a blog
+paginate_path: "/page:num/"
