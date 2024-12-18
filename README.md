@@ -5,7 +5,7 @@
 A Research Assistant and a Computer Engineering student at the [American University in Cairo](https://aucegypt.edu). My main fields of interest are hardware and embedded systems, and I am currently a member of the [AUC Open Source Hardware Lab (AUCOHL)](https://github.com/AUCOHL). Also  as a machine/deep learning enthusiast, I'm particularly interested in the fields of object detection, image segmentation, and reinforcement learning. 
 -->
 
-I am Youssef Kandil a TinyMl engineer at [Efabless Corporation](https://efabless.com). Previously a Computer Engineering student, research assistant, and teaching assistant in the Computer Science and Engineering Department at the [The American University in Cairo](https://aucegypt.edu). My research interests include but are not limited to Resource-Constrained Machine Learning and Computer Vision, Electronic Design Automation (EDA), Real-Time Operating Systems (RTOS), Software/Hardware Co-design and ASIC Machine Learning Acceleration.
+I am Youssef Kandil a TinyMl engineer at [Efabless Corporation](https://efabless.com). Previously a Computer Engineering student, research assistant, and teaching assistant in the Computer Science and Engineering Department at the [The American University in Cairo](https://aucegypt.edu). My research interests include but are not limited to **Resource-Constrained Machine Learning and Computer Vision**, **Electronic Design Automation (EDA)**, **Real-Time Operating Systems (RTOS)**, **Software/Hardware Co-design** and **ASIC Machine Learning Acceleration**.
 
 
 ## Projects
