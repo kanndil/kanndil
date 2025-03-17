@@ -23,12 +23,22 @@ Here are some of my key projects:
 
 ## Publications
 
-- Youssef Ashraf Kandil and Mohamed Shalan, Lighter: An Open-Source Automatic Clock Gating Tool for Dynamic Power Reduction in ASIC. Presented at the Workshop on Open Source EDA Technologies (WOSET),2024. https://openreview.net/forum?id=tNriFilLTO
-
-
+<ul>
+    <li>
+        <strong>Youssef Kandil</strong> and Mohammed Shalan, 
+        <em>Efficient MFCC Computation for Keyword Spotting on Embedded Systems: Optimization Techniques and Performance Analysis</em>. 
+        Accepted for presentation at the <em>7th IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS 2025)</em>, 
+        Bordeaux, France, April 28–30, 2025.
+    </li>
+    <li>
+        <strong>Youssef Kandil</strong> and Mohamed Shalan, 
+        <em>Lighter: An Open-Source Automatic Clock Gating Tool for Dynamic Power Reduction in ASIC</em>. 
+        Presented at the <em>Workshop on Open Source EDA Technologies (WOSET)</em>, 2024. 
+        <a href="https://openreview.net/forum?id=tNriFilLTO" target="_blank">https://openreview.net/forum?id=tNriFilLTO</a>
+    </li>
+</ul>
 
 ## 📫 How to reach me
-**Work Email:** youssef.kandil@efabless.com
 
 **Personal Email:** youssefkandil@aucegypt.edu
 
