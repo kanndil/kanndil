@@ -25,13 +25,14 @@ Here are some of my key projects:
 
 <ul>
     <li>
-        <strong>Youssef Kandil</strong> and Mohammed Shalan, 
+        Youssef Kandil and Mohammed Shalan, 
         <em>Efficient MFCC Computation for Keyword Spotting on Embedded Systems: Optimization Techniques and Performance Analysis</em>. 
         Accepted for presentation at the <em>7th IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS 2025)</em>, 
         Bordeaux, France, April 28–30, 2025.
     </li>
+    <br>
     <li>
-        <strong>Youssef Kandil</strong> and Mohamed Shalan, 
+        Youssef Kandil and Mohamed Shalan, 
         <em>Lighter: An Open-Source Automatic Clock Gating Tool for Dynamic Power Reduction in ASIC</em>. 
         Presented at the <em>Workshop on Open Source EDA Technologies (WOSET)</em>, 2024. 
         <a href="https://openreview.net/forum?id=tNriFilLTO" target="_blank">https://openreview.net/forum?id=tNriFilLTO</a>
