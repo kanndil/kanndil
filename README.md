@@ -35,7 +35,7 @@ Here are some of my key projects:
         Youssef Kandil and Mohamed Shalan, 
         <em>Lighter: An Open-Source Automatic Clock Gating Tool for Dynamic Power Reduction in ASIC</em>. 
         Presented at the <em>Workshop on Open Source EDA Technologies (WOSET)</em>, 2024. 
-        <a href="https://openreview.net/forum?id=tNriFilLTO" target="_blank">https://openreview.net/forum?id=tNriFilLTO</a>
+        <a href="https://woset-workshop.github.io/PDFs/2024/15_Lighter_An_Open_Source_Auto.pdf" target="_blank">https://woset-workshop.github.io/PDFs/2024/15_Lighter_An_Open_Source_Auto.pdf</a>
     </li>
 </ul>
 
