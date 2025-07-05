@@ -9,9 +9,7 @@
 Hi, I'm **Youssef Kandil** (@kanndil). Computer Engineering graduate from [**The American University in Cairo**](https://aucegypt.edu)  
 
 
----
 
-## 🎯 Research Domains
 
 <div align="center">
   
