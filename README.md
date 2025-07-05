@@ -24,6 +24,8 @@ Hi, I'm **Youssef Kandil** (@kanndil). Computer Engineering graduate from [**The
 
 ## 🛠️ Featured Projects
 
+<div align="center">
+  
 <table>
 <tr>
 <td width="50%">
@@ -70,6 +72,8 @@ Hi, I'm **Youssef Kandil** (@kanndil). Computer Engineering graduate from [**The
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
